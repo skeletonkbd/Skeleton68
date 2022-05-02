@@ -1,0 +1,15 @@
+[submodule "library/kbd"]
+	path = library/kbd
+	url = https://github.com/foostan/kbd.git
+[submodule "library/Keebio-Parts.pretty"]
+	path = library/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "library/keyboard.pretty"]
+	path = library/keyboard.pretty
+	url = https://github.com/swanmatch/keyboard.pretty.git
+[submodule "library/MX_Alps_Hybrid"]
+	path = library/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "library/random-keyboard-parts.pretty"]
+	path = library/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
