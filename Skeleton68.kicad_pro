@@ -385,7 +385,7 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.29,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
@@ -401,7 +401,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "Skeleton68-3.dsn",
+      "specctra_dsn": "Skeleton68-12.dsn",
       "step": "3d/SkeletonNumPad.step",
       "vrml": "3d/SkeletonNumPad.wrl"
     },
