@@ -1,0 +1,3911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\SkeletonKBD\Keyboards\Skeleton68\Skeleton68.kicad_sch</source>
+    <date>2022/05/09 17:54:43</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Skeleton68.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C1804</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1623877c-1db9-4e26-823f-01ad673827fd</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C1804</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d522d2d-4b50-44a4-8071-1bbb0f8a3688</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C28323</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C28323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acd80fb0-7831-46b1-8b8b-65e4c78e9a61</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4873f36-6530-4892-9ecc-f5f4902f14cc</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72fb8640-396d-461e-a76c-ae4634b7eb35</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41f4bbde-8f0c-40e7-895b-67fcad923c77</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20be6333-1d3f-406e-b461-376b1efe9eb8</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C15850</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da740ec6-3d3e-4b94-a757-5f0f0011a3d8</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2f72011-21b7-4ba3-b81c-818dd6a91e22</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc8ee186-5d41-44a0-bfcc-dfe3e0ed2a68</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d53efa3c-749a-4d3e-bb97-6baa4aa0f615</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d79a42e3-6c84-4581-bf8e-64c7a02bbcf0</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ab64e29-964f-40b2-bf58-c546b31cd3eb</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e443784-427c-4cbb-be2b-9f9cd1ef4969</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00c00486-372d-4193-8956-05469fe9c028</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08f13d36-e947-4c04-a20b-dca64b9dc7fd</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c5ec918-b5b3-479c-8450-6587c37ba2cb</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>026f8159-7dff-4c86-934b-9ecc7c7dab0a</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20aa3c47-3865-49ce-98f5-0a99b5a29cdf</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2eb2bb6b-51ec-4406-a6d7-ee724ddf54e3</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5532a43b-95f2-4dda-bb86-f11bb6843258</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b00a578-3dae-415a-803d-4d741160f9b6</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04d4d05a-4ea0-404d-857e-7c937f533454</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51a4aa20-8bbb-4a45-aaf9-8ccf48917895</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8eb08f3d-5a54-4ed9-958a-4c2025ba441c</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de107d60-62bb-4004-9c2f-436f9080aea8</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffe48c09-952d-4fd3-bb64-4e890d436464</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dddf22f0-745b-4711-98d4-14835975980e</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a22fd0d-c5de-4ae5-8aba-b7f2d1bdb286</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b1c4fd5-6b0f-4b2f-9a3d-8d9976527070</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92822770-73e2-4e6b-988a-edb5318d39fe</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d492ddb1-1266-44c1-8a0e-9123c4873e02</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bb50cc1-451f-4d77-9089-35f0c7dca3ac</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33b5ddb0-0238-4eb5-8e6f-8fe26162adb0</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75fce803-bda2-4a44-bc99-1645ed4b11f2</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af54be74-158f-41cf-a1fb-82fa0b53a2c8</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>deb54ad2-f9b3-47ee-83f3-a79a6fd516e5</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8c3be7c-2138-4bf4-91c5-5ddb1eab4539</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca99f2d5-d5fb-4af5-bd8e-009d1f6ba03c</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>647e86f4-3089-4d30-99b6-9979d60a996e</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cce0c045-20d9-49fc-9b0f-b9053b05ad64</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8784ac95-6ccb-4f6d-bcdb-4664c839ae21</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8d919ff-fd01-400e-92e0-06a6ecb227c3</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfe91d57-245a-4697-b2a5-c7a5d27ef780</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe6c8948-1cc9-44f3-8424-1c594a1cc759</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df611f4e-7bde-4984-b29f-f2fcb2a11c3d</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c7072c0-6102-4e42-b56d-5cb26e91e34f</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7da31da6-510e-48c7-90b5-715eefcd67d9</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df87ec14-7928-4d6a-915b-8339cd4e6acb</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bde95b6-a7d0-4943-aadc-80e79997798f</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c1fdebb-0fb7-481f-8b88-3d29baf6dc45</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38b66b6a-6c3d-4d86-9fad-5254c4930463</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42422b61-f93b-4a7f-ae2f-c6e2d4e60541</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a42420a1-57c5-47a8-87bd-5fa23cc49a74</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>525a4ca0-3ddd-42cc-b0f9-95b0a5425e10</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87fa0af6-289a-42eb-a9d2-89b5644a3afa</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>067ccf38-3f88-4370-9520-1613a6832cfe</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2928d0b4-5ba9-4539-b0cf-6cd942f140b0</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4ce690a-ecf6-4f93-830d-b59478e134e8</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18c10434-1287-4774-b21f-e0e14113d217</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d767e49-0a49-499c-963a-276cf69311c5</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a364971-49b9-41bd-944e-53ddae8dd65a</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>932baabe-11dd-4533-954b-398e0517f932</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9723418c-c887-450a-b4c4-438f40ddcd45</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>321cf346-8bb1-4c9b-8c5c-1755da738168</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f289039a-a3e8-4796-af87-8ac87ad6c4ca</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a56ca858-56a2-4e0d-9f8f-e7ddfd866c29</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2916bde9-b278-487b-8576-3fed89449b45</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a43e64e7-87d1-4c6d-adc3-4cdcffeea618</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebf66506-85f3-4bfd-b957-b334377eda63</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b99578a0-28da-4ac7-a860-a8c0d021df66</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a5ae23d-a6d6-482d-9fca-c098409e1410</tstamps>
+    </comp>
+    <comp ref="D65">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53d8ab19-ed2f-461d-83f0-4c17ba3a3460</tstamps>
+    </comp>
+    <comp ref="D66">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d68aabc9-f4b7-404d-85a7-c5a419a3882a</tstamps>
+    </comp>
+    <comp ref="D67">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d282d44b-0f8c-4770-bcaa-00f1d0c98af0</tstamps>
+    </comp>
+    <comp ref="D68">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62ebd0cf-1be8-4cf1-b208-e727f7b3ac4d</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>500mA</value>
+      <footprint>Fuse:Fuse_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C70069</field>
+      </fields>
+      <libsource lib="Device" part="Fuse_Small" description="Fuse, small symbol"/>
+      <property name="LCSC" value="C70069"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2801a447-910b-4fbd-8c6b-faadc059d901</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>Connector_USB:USB_C_Receptacle_Palconn_UTC16-G</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="LCSC">C167321</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="LCSC" value="C167321"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16b11208-65c7-49e9-8c3b-f66751ee0727</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d4a528e-b31d-453e-afef-d3240f941de5</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c5ce44e-603d-487b-b527-14e5889da608</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>094b1e02-c7c0-4b05-9659-360b2333aa79</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8d1d563-c5df-463a-ae8f-f6b9b8ed1574</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86ae48e0-4b11-475c-9737-f25e9aa13487</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a9a0ad9-c372-4953-b057-940548b3f40d</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d636f59d-5445-4e77-abec-26004092c5c0</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84703738-cb72-4d2f-be6d-baa7b54b3d10</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d610dfd-d102-495c-b231-c5a0cd02efc6</tstamps>
+    </comp>
+    <comp ref="LED10">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6b5d245-df61-4abd-8a5e-4327b4e28372</tstamps>
+    </comp>
+    <comp ref="LED11">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a466700c-2c13-41a6-b33a-e257968ca6f9</tstamps>
+    </comp>
+    <comp ref="LED12">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80e85493-c6cf-4400-91ea-18942b5b8c30</tstamps>
+    </comp>
+    <comp ref="LED13">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80ca1a4e-2078-444c-acdb-3aecce2c8de9</tstamps>
+    </comp>
+    <comp ref="LED14">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43617368-cfbb-435d-9755-30865be35974</tstamps>
+    </comp>
+    <comp ref="LED15">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5caff35d-3652-400f-b193-e6a9dabff20d</tstamps>
+    </comp>
+    <comp ref="LED16">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24573d78-acd6-46cc-aeb3-9fe20a3d7317</tstamps>
+    </comp>
+    <comp ref="LED17">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61e7cee4-8d7a-4ea6-8878-eea22c895cbb</tstamps>
+    </comp>
+    <comp ref="LED18">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae1c9d6b-7127-4dcc-89b2-86df19920aa7</tstamps>
+    </comp>
+    <comp ref="LED19">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5732c13d-ab6b-4e7f-8b86-21cd74a2abf3</tstamps>
+    </comp>
+    <comp ref="LED20">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcad38b6-0d7c-439d-b5d2-39beb1f9e7f6</tstamps>
+    </comp>
+    <comp ref="LED21">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92831422-fbf7-4e6f-8d86-e56897787011</tstamps>
+    </comp>
+    <comp ref="LED22">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32cac3a9-b889-4196-a103-94d7ebd0cfbb</tstamps>
+    </comp>
+    <comp ref="LED23">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>328453f9-8278-4f10-955f-5f0741a784d0</tstamps>
+    </comp>
+    <comp ref="LED24">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a0257df-b26d-4a50-ac3f-be8ba384cae6</tstamps>
+    </comp>
+    <comp ref="LED25">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff08685a-9939-4840-8d1d-194320ea1922</tstamps>
+    </comp>
+    <comp ref="LED26">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81d01a64-082d-44b2-8612-969c51cedd2e</tstamps>
+    </comp>
+    <comp ref="LED27">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>043daa97-9a85-4054-b40d-722899b6a04a</tstamps>
+    </comp>
+    <comp ref="LED28">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>121af362-65ca-496b-bf2f-eeebc7ca2006</tstamps>
+    </comp>
+    <comp ref="LED29">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70bdfef3-ad64-4902-9eb2-842db7795b21</tstamps>
+    </comp>
+    <comp ref="LED30">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89c0f8bb-4845-47bf-b48a-61f2f3e585e9</tstamps>
+    </comp>
+    <comp ref="LED31">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b032122-9992-460e-a009-28ef7725a448</tstamps>
+    </comp>
+    <comp ref="LED32">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8456d28-4d18-4904-a43b-391d1795dcaa</tstamps>
+    </comp>
+    <comp ref="LED33">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2457ec8d-e754-48b9-907f-60f17f621d3e</tstamps>
+    </comp>
+    <comp ref="LED34">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>792a9d5a-e528-41b0-9dce-fd7f663e1011</tstamps>
+    </comp>
+    <comp ref="LED35">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5df6708-97a0-4ca9-a79d-5b0a137ba390</tstamps>
+    </comp>
+    <comp ref="LED36">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9893e733-b9cd-47fa-b144-927c1f2f1814</tstamps>
+    </comp>
+    <comp ref="LED37">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>491d0680-69d7-4f11-9cbf-a0af9f36266c</tstamps>
+    </comp>
+    <comp ref="LED38">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4510f09a-e2a8-4d27-8de5-f974fb3db7f3</tstamps>
+    </comp>
+    <comp ref="LED39">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffc51172-9a99-40cd-8a67-70233e245d62</tstamps>
+    </comp>
+    <comp ref="LED40">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>826fa586-870e-4b34-96cf-1a91f5cfd84c</tstamps>
+    </comp>
+    <comp ref="LED41">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b801782b-82ff-4cae-85d7-954464355c65</tstamps>
+    </comp>
+    <comp ref="LED42">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83542194-666d-43c7-a58b-e665f99dec0f</tstamps>
+    </comp>
+    <comp ref="LED43">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>091ca369-4426-4a8c-adcd-5f9257da937a</tstamps>
+    </comp>
+    <comp ref="LED44">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c031a134-205f-437f-aada-49d509a6102f</tstamps>
+    </comp>
+    <comp ref="LED45">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69c5b338-6b0e-4ce0-9429-d9471ad31689</tstamps>
+    </comp>
+    <comp ref="LED46">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f98aa75-d263-43ba-893d-3d91d04a8ac1</tstamps>
+    </comp>
+    <comp ref="LED47">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7d7b7a3-8dcc-4b9f-83ad-18fccd879928</tstamps>
+    </comp>
+    <comp ref="LED48">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c2b6ceb-72a2-4f09-a4a4-600778012f47</tstamps>
+    </comp>
+    <comp ref="LED49">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>682e0bac-8004-4743-8539-58b8f4ccc249</tstamps>
+    </comp>
+    <comp ref="LED50">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c2876d6-eeed-4921-bed4-bd2c850939c5</tstamps>
+    </comp>
+    <comp ref="LED51">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85382718-bb50-4f6a-8e4f-1be45e07a581</tstamps>
+    </comp>
+    <comp ref="LED52">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4155b434-c409-4772-a4b7-66fc06212ac3</tstamps>
+    </comp>
+    <comp ref="LED53">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a9bae59-0f6c-4ee3-9215-e87d75fd692a</tstamps>
+    </comp>
+    <comp ref="LED54">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5689f4cc-5f51-4e11-b1b5-0e6494b269d5</tstamps>
+    </comp>
+    <comp ref="LED55">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b999382-8379-45a5-896d-2305237e262d</tstamps>
+    </comp>
+    <comp ref="LED56">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f8238c2-0abb-470c-862a-413f31c36d59</tstamps>
+    </comp>
+    <comp ref="LED57">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eea615ec-b014-421f-9ee2-f8b5e2d7401d</tstamps>
+    </comp>
+    <comp ref="LED58">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>921f8ee8-b4f0-41c1-993b-cfe308a593bf</tstamps>
+    </comp>
+    <comp ref="LED59">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20481654-b937-4da0-8104-556bc4355376</tstamps>
+    </comp>
+    <comp ref="LED60">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e074061-774c-4bcf-9537-3f837a52cb6e</tstamps>
+    </comp>
+    <comp ref="LED61">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d1d8859-dcc1-4ae9-8408-06bcacb0f6ed</tstamps>
+    </comp>
+    <comp ref="LED62">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5c8f54d-99d8-403e-bcab-fe8279c022ab</tstamps>
+    </comp>
+    <comp ref="LED63">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d0524b8-1e60-4fbf-959a-9e9e33164d44</tstamps>
+    </comp>
+    <comp ref="LED64">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3ccdec8-3afb-4b56-b938-009e2db5376d</tstamps>
+    </comp>
+    <comp ref="LED65">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab8c4af4-2a72-4fb7-8650-da77a7c91eef</tstamps>
+    </comp>
+    <comp ref="LED66">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab4b5262-9ba8-4c5d-b55d-1a9a5085e3d3</tstamps>
+    </comp>
+    <comp ref="LED67">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ce66509-927c-43ec-a982-3989859f18d9</tstamps>
+    </comp>
+    <comp ref="LED68">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3c89930-4246-4533-9977-5f0be1f05334</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C27834"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bce15f7-9680-4fe7-8db9-e42479e4a67e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C27834"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f439731-4616-46c4-b185-5dfedf56e4ad</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17561</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17561"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da082a2e-8680-422e-aadb-1eceebcdb268</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6eca2c80-a3c0-41bd-ae40-88d8ab1ee94a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17561</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17561"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97c4ca6d-665f-468b-9360-1b47522b8d58</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0f158f6-a067-4ffa-8ee2-5354c8c4f959</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0921ebf9-2a85-4087-9aa3-f3141411030f</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>497d0bb8-e022-4b7a-937c-e81dd0fc5cf5</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa8fba5b-1a77-4520-8079-17db7f2a340e</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>faa3dcf0-564b-46ff-9548-505f4f5ed99c</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5956d45-f580-4d12-935e-c748c691b198</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e28a575f-e325-45a2-bd92-6678a75e3b43</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3193804-4adc-4ed6-a377-bbb7380fedc4</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03cac086-40ed-4c05-88d3-27eb0702fc74</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b4a2be2-cc03-483c-86f4-dbac71ba4645</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f8553e5-39f5-43b3-84e3-5b5e8aafeee7</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db0fcaad-8e76-4e85-98d3-b8e577af269d</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebe2d393-f33b-4af2-8825-1b9a5f9fcafb</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c2e8bf0-062a-4831-bab7-e00e0269e496</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-2U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7eff026f-6e2e-4774-a4c4-4158ea4cfe80</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adc89771-9601-4c83-bc4b-732ac630a534</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1.5U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d3ec824-2cb2-4865-8e0d-82248d2f3d43</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46153490-81eb-43db-93d6-ec25d078e512</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fb53cbd-6bdf-4eae-9efa-e30d945d979d</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>943c26e0-ebc2-4dc9-89fb-4e2f14167b48</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e1d01f1-08be-41d8-bfc0-448025f5d14f</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6af9f792-0dde-40d2-8b4b-e1df26e5f058</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44866003-9636-48b3-b64b-26531943425a</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e73b727-c07c-4691-aebb-247f7ac610d4</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76b9eab7-0013-42ec-b4fb-8b32fed0461a</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3a6b5cd-b388-442c-ab05-7ce1412dd365</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64102c40-4cca-4498-89e0-b6ee43038eeb</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>885d4ccb-0efb-495a-82aa-39554db4d17c</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd6a7a14-1df9-425e-b75d-42536138ee2a</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1.5U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a2ce9b7-c5b5-4119-8905-444e24af80ed</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcec5765-302a-44ae-a4c4-c74e11c6c6c0</tstamps>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1.75U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b57b8b4-dc5c-47c0-8af6-ded90ddf2138</tstamps>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6bc88ee-e496-4abd-96ee-2561ee8f7f83</tstamps>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2587f83a-999f-4930-bfc1-ddf50abc9cd1</tstamps>
+    </comp>
+    <comp ref="SW34">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2bdc1eb-24e7-4ae1-b80e-829f8b13a950</tstamps>
+    </comp>
+    <comp ref="SW35">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b3c5395-84bf-4566-81d9-30282c13a6f2</tstamps>
+    </comp>
+    <comp ref="SW36">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb884059-741c-4fec-a78d-9950198fc0bb</tstamps>
+    </comp>
+    <comp ref="SW37">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>768fe6b5-9b35-4b3e-8d32-1d7bccf1859c</tstamps>
+    </comp>
+    <comp ref="SW38">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e91da123-70d9-4e6a-a0c7-ca0acf9dce63</tstamps>
+    </comp>
+    <comp ref="SW39">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24adbe5c-a78d-4f00-845a-9b72d01a83e1</tstamps>
+    </comp>
+    <comp ref="SW40">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c26a743-60a2-422a-acba-f34172f6c8e6</tstamps>
+    </comp>
+    <comp ref="SW41">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>535190a5-b4e4-4b7d-be27-8073f0e7e9b2</tstamps>
+    </comp>
+    <comp ref="SW42">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30e5920a-f5da-48fb-b8e6-7ed70c62aad3</tstamps>
+    </comp>
+    <comp ref="SW43">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-2.25U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2c3e8ba-bfa0-4a74-9d93-e006224b0dc8</tstamps>
+    </comp>
+    <comp ref="SW44">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43cdd48c-5e15-4667-828a-709fdbbd42ab</tstamps>
+    </comp>
+    <comp ref="SW45">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-2.25U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e7219ee-4014-4379-acac-0d9f4e4aa6b0</tstamps>
+    </comp>
+    <comp ref="SW46">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb55a003-63d8-4514-be41-8661b907e75e</tstamps>
+    </comp>
+    <comp ref="SW47">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4220143a-a7e3-423e-b8a4-03882d757884</tstamps>
+    </comp>
+    <comp ref="SW48">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbbf66ce-cc0b-4512-b5df-a37275cabc1b</tstamps>
+    </comp>
+    <comp ref="SW49">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f51493d-711a-4fe8-993d-2f43efd3c590</tstamps>
+    </comp>
+    <comp ref="SW50">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7de7755-ad04-40a9-bf4b-c18861c3b5aa</tstamps>
+    </comp>
+    <comp ref="SW51">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d8b4b27-f9dd-40d0-ba50-7e8d55ba660d</tstamps>
+    </comp>
+    <comp ref="SW52">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac3f6bfb-aa26-4102-9924-fff57e7b704b</tstamps>
+    </comp>
+    <comp ref="SW53">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d195905-bab6-44c3-ba6c-23af7368fc76</tstamps>
+    </comp>
+    <comp ref="SW54">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6559ece-3ea3-4789-a9dc-f4417b43961d</tstamps>
+    </comp>
+    <comp ref="SW55">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5be7970d-1dfe-4aa6-b4f5-155911b155be</tstamps>
+    </comp>
+    <comp ref="SW56">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2df06d2e-68d6-43d9-bf3a-1ba41fdbb67f</tstamps>
+    </comp>
+    <comp ref="SW57">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1.75U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fb2c866-e642-4c45-88a4-e893b5fc5383</tstamps>
+    </comp>
+    <comp ref="SW58">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>700a63d7-8c62-4d90-9bd1-64b1d8c3c8e5</tstamps>
+    </comp>
+    <comp ref="SW59">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1.5U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94d194f1-dd06-4135-9c9d-8f2deafeddfd</tstamps>
+    </comp>
+    <comp ref="SW60">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1.5U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c35fa712-17cd-454b-84ad-8728bdcacf8b</tstamps>
+    </comp>
+    <comp ref="SW61">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-2U-Hotswap-ReversedStabilizers</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bf85790-4294-4e1f-a566-40989fc2a6c1</tstamps>
+    </comp>
+    <comp ref="SW62">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d064130f-bcac-4135-98ed-60fa53a2a123</tstamps>
+    </comp>
+    <comp ref="SW63">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-2.75U-Hotswap-ReversedStabilizers</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fdcbba8-4924-44f6-a080-969efd76c9ef</tstamps>
+    </comp>
+    <comp ref="SW64">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1.5U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03b702ce-bfe2-494c-90bc-bb55e93165cb</tstamps>
+    </comp>
+    <comp ref="SW65">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1.5U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7261ad3-2718-4d20-8d17-4525903a5553</tstamps>
+    </comp>
+    <comp ref="SW66">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15c42a42-c0b6-46d1-8fc9-0a83ca400e96</tstamps>
+    </comp>
+    <comp ref="SW67">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>207cf1f1-1c9a-4d16-ba20-d8ed74387c86</tstamps>
+    </comp>
+    <comp ref="SW68">
+      <value>SW_PUSH</value>
+      <footprint>Custom:MXOnly-1U-Hotswap</footprint>
+      <fields>
+        <field name="LCSC"> C2803348 </field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value=" C2803348 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dcca157-a27b-40c3-840d-e704a831735a</tstamps>
+    </comp>
+    <comp ref="SW_69">
+      <value>SW_PUSH</value>
+      <footprint>Button_Switch_SMD:SW_SPST_SKQG_WithStem</footprint>
+      <fields>
+        <field name="LCSC">C455263</field>
+      </fields>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="LCSC" value="C455263"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c1c546f-bbef-470c-adc4-d27d5cdd812b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATmega32U4-M</value>
+      <footprint>Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
+      <fields>
+        <field name="LCSC"> C112161 </field>
+      </fields>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-M" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44"/>
+      <property name="LCSC" value=" C112161 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1755646e-fc08-4e43-a301-d9b3ea704cf6</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>PRTR5V0U2X</value>
+      <footprint>Package_TO_SOT_SMD:SOT-143</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2827688</field>
+      </fields>
+      <libsource lib="Power_Protection" part="PRTR5V0U2X" description="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
+      <property name="LCSC" value="C2827688"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc01db05-aa3b-48cc-b44f-7bbfe942683f</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal_GND24</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <fields>
+        <field name="LCSC">C13738</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="LCSC" value="C13738"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Skeleton68.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>716779c5-535c-4175-85f2-f6716e11ef94</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse_Small">
+      <description>Fuse, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega32U4-M">
+      <description>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega32U4-M</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6" type="bidirectional"/>
+        <pin num="2" name="UVCC" type="power_in"/>
+        <pin num="3" name="D-" type="bidirectional"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="UGND" type="passive"/>
+        <pin num="6" name="UCAP" type="passive"/>
+        <pin num="7" name="VBUS" type="input"/>
+        <pin num="8" name="PB0" type="bidirectional"/>
+        <pin num="9" name="PB1" type="bidirectional"/>
+        <pin num="10" name="PB2" type="bidirectional"/>
+        <pin num="11" name="PB3" type="bidirectional"/>
+        <pin num="12" name="PB7" type="bidirectional"/>
+        <pin num="13" name="~{RESET}" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="output"/>
+        <pin num="17" name="XTAL1" type="input"/>
+        <pin num="18" name="PD0" type="bidirectional"/>
+        <pin num="19" name="PD1" type="bidirectional"/>
+        <pin num="20" name="PD2" type="bidirectional"/>
+        <pin num="21" name="PD3" type="bidirectional"/>
+        <pin num="22" name="PD5" type="bidirectional"/>
+        <pin num="23" name="GND" type="passive"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="PD4" type="bidirectional"/>
+        <pin num="26" name="PD6" type="bidirectional"/>
+        <pin num="27" name="PD7" type="bidirectional"/>
+        <pin num="28" name="PB4" type="bidirectional"/>
+        <pin num="29" name="PB5" type="bidirectional"/>
+        <pin num="30" name="PB6" type="bidirectional"/>
+        <pin num="31" name="PC6" type="bidirectional"/>
+        <pin num="32" name="PC7" type="bidirectional"/>
+        <pin num="33" name="~{HWB}/PE2" type="bidirectional"/>
+        <pin num="34" name="VCC" type="passive"/>
+        <pin num="35" name="GND" type="passive"/>
+        <pin num="36" name="PF7" type="bidirectional"/>
+        <pin num="37" name="PF6" type="bidirectional"/>
+        <pin num="38" name="PF5" type="bidirectional"/>
+        <pin num="39" name="PF4" type="bidirectional"/>
+        <pin num="40" name="PF1" type="bidirectional"/>
+        <pin num="41" name="PF0" type="bidirectional"/>
+        <pin num="42" name="AREF" type="passive"/>
+        <pin num="43" name="GND" type="passive"/>
+        <pin num="44" name="AVCC" type="passive"/>
+        <pin num="45" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="PRTR5V0U2X">
+      <description>Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</docs>
+      <footprints>
+        <fp>SOT?143*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PRTR5V0U2X</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-143</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="I/O1" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kbd" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kbd" part="YS-SK6812MINI-E">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">YS-SK6812MINI-E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad6\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad6\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Microchip_ATmega">
+      <uri>C:\Program Files\KiCad6\share\kicad\symbols\/MCU_Microchip_ATmega.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>C:\Program Files\KiCad6\share\kicad\symbols\/Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="kbd">
+      <uri>D:\SkeletonKBD\Keyboards\Skeleton68/library/kbd/kicad-symbols/kbd.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="LED1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED10" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED11" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED12" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED13" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED14" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED15" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED16" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED17" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED18" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED19" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED20" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED21" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED22" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED23" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED24" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED25" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED26" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED27" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED28" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED29" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED30" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED31" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED32" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED33" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED34" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED35" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED36" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED37" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED38" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED39" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED40" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED41" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED42" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED43" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED44" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED45" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED46" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED47" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED48" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED49" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED50" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED51" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED52" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED53" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED54" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED55" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED56" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED57" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED58" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED59" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED60" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED61" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED62" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED63" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED64" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED65" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED66" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED67" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED68" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED8" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED9" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="UVCC" pintype="power_in"/>
+      <node ref="U1" pin="24" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="34" pinfunction="VCC" pintype="passive"/>
+      <node ref="U1" pin="44" pinfunction="AVCC" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="LED1" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED10" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED11" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED12" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED13" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED14" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED15" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED16" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED17" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED18" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED19" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED2" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED20" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED21" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED22" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED23" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED24" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED25" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED26" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED27" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED28" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED29" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED3" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED30" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED31" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED32" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED33" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED34" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED35" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED36" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED37" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED38" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED39" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED4" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED40" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED41" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED42" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED43" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED44" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED45" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED46" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED47" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED48" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED49" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED5" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED50" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED51" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED52" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED53" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED54" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED55" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED56" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED57" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED58" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED59" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED6" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED60" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED61" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED62" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED63" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED64" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED65" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED66" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED67" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED68" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED7" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED8" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED9" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="SW_69" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="45" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="UGND" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="UCAP" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW32" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW33" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW34" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW35" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW36" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW37" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW38" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW39" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW40" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW41" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW42" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW43" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW44" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW45" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW46" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW47" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW48" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW49" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW50" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW51" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW52" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW53" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D54-Pad2)">
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW54" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D55-Pad2)">
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW55" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D56-Pad2)">
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW56" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D57-Pad2)">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW57" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D58-Pad2)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW58" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW59" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D60-Pad2)">
+      <node ref="D60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW60" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D61-Pad2)">
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW61" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D62-Pad2)">
+      <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW62" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D63-Pad2)">
+      <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW63" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D64-Pad2)">
+      <node ref="D64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW64" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D65-Pad2)">
+      <node ref="D65" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW65" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D66-Pad2)">
+      <node ref="D66" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW66" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D67-Pad2)">
+      <node ref="D67" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW67" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D68-Pad2)">
+      <node ref="D68" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW68" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(J1-PadA6)">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(J1-PadA7)">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED2" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="77" name="Net-(LED2-Pad2)">
+      <node ref="LED2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED3" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="78" name="Net-(LED3-Pad2)">
+      <node ref="LED3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED4" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(LED4-Pad2)">
+      <node ref="LED4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED5" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="80" name="Net-(LED5-Pad2)">
+      <node ref="LED5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED6" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="81" name="Net-(LED6-Pad2)">
+      <node ref="LED6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED7" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="82" name="Net-(LED7-Pad2)">
+      <node ref="LED7" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED8" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="83" name="Net-(LED10-Pad2)">
+      <node ref="LED10" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED11" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="84" name="Net-(LED10-Pad4)">
+      <node ref="LED10" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED9" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="85" name="Net-(LED11-Pad2)">
+      <node ref="LED11" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED12" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="86" name="Net-(LED12-Pad2)">
+      <node ref="LED12" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED13" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="87" name="Net-(LED13-Pad2)">
+      <node ref="LED13" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED14" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="88" name="Net-(LED14-Pad2)">
+      <node ref="LED14" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED15" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="89" name="Net-(LED16-Pad2)">
+      <node ref="LED16" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED31" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="90" name="Net-(LED16-Pad4)">
+      <node ref="LED16" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED17" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="91" name="Net-(LED17-Pad4)">
+      <node ref="LED17" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED18" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="92" name="Net-(LED18-Pad4)">
+      <node ref="LED18" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED19" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="93" name="Net-(LED19-Pad4)">
+      <node ref="LED19" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED20" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="94" name="Net-(LED20-Pad4)">
+      <node ref="LED20" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED21" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="95" name="Net-(LED21-Pad4)">
+      <node ref="LED21" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED8" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="96" name="Net-(LED22-Pad2)">
+      <node ref="LED22" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED9" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="97" name="Net-(LED22-Pad4)">
+      <node ref="LED22" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED23" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="98" name="Net-(LED23-Pad4)">
+      <node ref="LED23" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED24" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="99" name="Net-(LED24-Pad4)">
+      <node ref="LED24" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED25" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="100" name="Net-(LED25-Pad4)">
+      <node ref="LED25" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED26" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="101" name="Net-(LED26-Pad4)">
+      <node ref="LED26" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED27" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="102" name="Net-(LED27-Pad4)">
+      <node ref="LED27" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED28" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="103" name="Net-(LED28-Pad4)">
+      <node ref="LED28" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED29" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="104" name="Net-(LED29-Pad4)">
+      <node ref="LED29" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED30" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="105" name="Net-(LED30-Pad4)">
+      <node ref="LED30" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED44" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="106" name="Net-(LED31-Pad2)">
+      <node ref="LED31" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED32" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="107" name="Net-(LED32-Pad2)">
+      <node ref="LED32" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED33" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="108" name="Net-(LED33-Pad2)">
+      <node ref="LED33" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED34" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="109" name="Net-(LED34-Pad2)">
+      <node ref="LED34" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED35" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="110" name="Net-(LED35-Pad2)">
+      <node ref="LED35" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED36" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="111" name="Net-(LED36-Pad2)">
+      <node ref="LED36" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED50" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="112" name="Net-(LED37-Pad2)">
+      <node ref="LED37" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED38" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="113" name="Net-(LED37-Pad4)">
+      <node ref="LED37" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED51" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="114" name="Net-(LED38-Pad2)">
+      <node ref="LED38" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED39" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="115" name="Net-(LED39-Pad2)">
+      <node ref="LED39" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED40" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="116" name="Net-(LED40-Pad2)">
+      <node ref="LED40" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED41" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="117" name="Net-(LED41-Pad2)">
+      <node ref="LED41" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED42" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="118" name="Net-(LED42-Pad2)">
+      <node ref="LED42" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED43" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="119" name="Net-(LED43-Pad2)">
+      <node ref="LED43" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED44" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="120" name="Net-(LED45-Pad2)">
+      <node ref="LED45" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED59" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="121" name="Net-(LED45-Pad4)">
+      <node ref="LED45" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED46" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="122" name="Net-(LED46-Pad4)">
+      <node ref="LED46" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED47" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="123" name="Net-(LED47-Pad4)">
+      <node ref="LED47" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED48" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="124" name="Net-(LED48-Pad4)">
+      <node ref="LED48" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED49" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="125" name="Net-(LED49-Pad4)">
+      <node ref="LED49" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED50" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="126" name="Net-(LED51-Pad4)">
+      <node ref="LED51" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED52" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="127" name="Net-(LED52-Pad4)">
+      <node ref="LED52" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED53" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="128" name="Net-(LED53-Pad4)">
+      <node ref="LED53" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED54" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="129" name="Net-(LED54-Pad4)">
+      <node ref="LED54" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED55" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="130" name="Net-(LED55-Pad4)">
+      <node ref="LED55" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED56" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="131" name="Net-(LED56-Pad4)">
+      <node ref="LED56" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED57" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="132" name="Net-(LED57-Pad4)">
+      <node ref="LED57" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED58" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="133" name="Net-(LED58-Pad4)">
+      <node ref="LED58" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED68" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="134" name="Net-(LED59-Pad2)">
+      <node ref="LED59" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED60" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="135" name="Net-(LED60-Pad2)">
+      <node ref="LED60" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED61" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="136" name="Net-(LED61-Pad2)">
+      <node ref="LED61" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED62" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="137" name="Net-(LED62-Pad2)">
+      <node ref="LED62" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED63" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="138" name="Net-(LED63-Pad2)">
+      <node ref="LED63" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED64" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="139" name="Net-(LED64-Pad2)">
+      <node ref="LED64" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED65" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="140" name="Net-(LED65-Pad2)">
+      <node ref="LED65" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED66" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="141" name="Net-(LED66-Pad2)">
+      <node ref="LED66" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED67" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="142" name="Net-(LED67-Pad2)">
+      <node ref="LED67" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED68" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="143" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="PE6" pintype="bidirectional"/>
+    </net>
+    <net code="144" name="VCC">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="VCC" pintype="passive"/>
+    </net>
+    <net code="145" name="col0">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW45" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW59" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="146" name="col1">
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW32" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW46" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="147" name="col2">
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW33" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW47" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW60" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="148" name="col3">
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW34" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW48" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="149" name="col4">
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW35" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW49" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW61" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="150" name="col5">
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW36" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW50" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW62" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="151" name="col6">
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="152" name="col7">
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW37" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW51" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW63" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="153" name="col8">
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW38" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW52" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="154" name="col9">
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW39" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW53" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW64" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="155" name="col10">
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW40" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW54" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="156" name="col11">
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW41" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW55" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="157" name="col12">
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW42" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW56" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW65" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="158" name="col13">
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW57" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW66" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="159" name="col14">
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW43" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW58" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW67" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="160" name="col15">
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW44" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW68" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="~{HWB}/PE2" pintype="bidirectional"/>
+    </net>
+    <net code="161" name="d+">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="162" name="d-">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="163" name="led">
+      <node ref="LED1" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="U1" pin="36" pinfunction="PF7" pintype="bidirectional"/>
+    </net>
+    <net code="164" name="reset">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW_69" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="165" name="row0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="166" name="row1">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="167" name="row2">
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
+    </net>
+    <net code="168" name="row3">
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="PF5" pintype="bidirectional"/>
+    </net>
+    <net code="169" name="row4">
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D60" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D65" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D66" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D67" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D68" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="PF6" pintype="bidirectional"/>
+    </net>
+    <net code="170" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="171" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="172" name="unconnected-(LED15-Pad2)">
+      <node ref="LED15" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="173" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="PD5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="174" name="unconnected-(U1-Pad40)">
+      <node ref="U1" pin="40" pinfunction="PF1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="175" name="unconnected-(U1-Pad41)">
+      <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="176" name="unconnected-(U1-Pad42)">
+      <node ref="U1" pin="42" pinfunction="AREF" pintype="passive+no_connect"/>
+    </net>
+    <net code="177" name="xtal1">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="178" name="xtal2">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="XTAL2" pintype="output"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
